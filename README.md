@@ -1,2 +1,3 @@
 # LaravelSocialite
- Laravel Socialite Google Authentication
+ Laravel 11 Socialite Google Authentication
+with jetstream
